@@ -6,9 +6,10 @@
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="andre.aguiar.pereira@tecnico.ulisboa.pt">
+<a href="mailto:andre.aguiar.pereira@tecnico.ulisboa.pt">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>-->
+</a>
+-->
 
 </div>
 
@@ -22,14 +23,14 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
 
 ---
 
-## ⚙️Favorite Tools and Technologies 
+## ⚙️ Favorite Tools and Technologies 
 
 > Tools and technologies that I have worked with and am interested in
 
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="65" height="65" />
       <br>C
     </td>
     <td align="center" width="96">
@@ -83,7 +84,7 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
       <br>Networking
     </td>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/scrum-taskboard.png" width="48" height="48" alt="Scrum" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Scrum_Alliance_logo.svg/120px-Scrum_Alliance_logo.svg.png" width="48" height="48" alt="Scrum" />
       <br>Scrum
     </td>
   </tr>
@@ -124,5 +125,3 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
 
 - [Project 1](#) — short description.
 - [Project 2](#) — short description.
-
-
