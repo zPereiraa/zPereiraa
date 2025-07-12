@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm André" title="👋 Hi there! I'm André"/>
+<img src="https://github.com/zPereiraa/zPereiraa/blob/main/WelcomeToMyProfile.gif" alt="👋 Hi there! I'm André" title="👋 Hi there! I'm André"/>
 <div align="justify">
 
 <a href="https://www.linkedin.com/in/your-linkedin/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:your.email@email.com">
+<a href="andre.aguiar.pereira@tecnico.ulisboa.pt">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -14,7 +14,8 @@
 <p></p>
 <p align="justify">
 Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecommunications and Informatics Engineering</b> at <b>University of Lisbon - Instituto Superior Técnico</b>.<br>
-📖 <b>BSc in Telecommunications and Informatics Engineering</b> (2021 – 2024) <br>
+
+🎓 <b>BSc in Telecommunications and Informatics Engineering</b> (2021 – 2024) <br>
 🎓 <b>MSc in Telecommunications and Informatics Engineering</b> (2024 – 2026)
 </p>
 
