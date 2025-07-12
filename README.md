@@ -1,13 +1,14 @@
 <img src="https://github.com/zPereiraa/zPereiraa/blob/main/WelcomeToMyProfile.gif" alt="👋 Hi there! I'm André" title="👋 Hi there! I'm André"/>
 <div align="justify">
 
+<!--
 <a href="https://www.linkedin.com/in/your-linkedin/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="andre.aguiar.pereira@tecnico.ulisboa.pt">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+</a>-->
 
 </div>
 
@@ -21,7 +22,7 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
 
 ---
 
-## ⚙️ My favorite tools and technologies 
+## ⚙️Favorite Tools and Technologies 
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -116,19 +117,12 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
   <img src="https://komarev.com/ghpvc/?username=your-username&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
----
-
-## 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 University Projects
+
 - [Project 1](#) — short description.
 - [Project 2](#) — short description.
 
----
-
-<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="dino gif" />
 
