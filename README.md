@@ -120,5 +120,20 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
 
 ## 🚀 University Projects
 
-- [Project 1](#) — short description.
-- [Project 2](#) — short description.
+<details>
+  <summary>Bachelor’s Degree Projects 🎓</summary>
+  
+- [Bachelor Project 1](#) — short description.
+- [Bachelor Project 2](#) — short description.
+- [Bachelor Project 3](#) — short description.
+
+</details>
+
+<details>
+  <summary>Master’s Degree Projects 🎓</summary>
+
+- [Master Project 1](#) — short description.
+- [Master Project 2](#) — short description.
+- [Master Project 3](#) — short description.
+
+</details>
