@@ -57,8 +57,6 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
@@ -67,6 +65,8 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>GitHub
@@ -87,8 +87,6 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" width="48" height="48" alt="PyCharm" />
       <br>PyCharm
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" width="48" height="48" alt="Visual Studio Code" />
       <br>VS Code
