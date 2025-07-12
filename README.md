@@ -20,7 +20,7 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
 
 ---
 
-## My favorite tools and technologies ⚙️
+## ⚙️ My favorite tools and technologies 
 
 > Tools and technologies that I have worked with and am interested in
 
