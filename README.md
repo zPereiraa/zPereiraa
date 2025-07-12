@@ -1,28 +1,3 @@
-<img src="https://github.com/zPereiraa/zPereiraa/blob/main/WelcomeToMyProfile.gif" alt="👋 Hi there! I'm André" title="👋 Hi there! I'm André"/>
-<div align="justify">
-
-<!--
-<a href="https://www.linkedin.com/in/your-linkedin/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:andre.aguiar.pereira@tecnico.ulisboa.pt">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
--->
-
-</div>
-
-<p></p>
-<p align="justify">
-Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecommunications and Informatics Engineering</b> at <b>University of Lisbon - Instituto Superior Técnico</b>.<br>
-
-🎓 <b>BSc in Telecommunications and Informatics Engineering</b> (2021 – 2024) <br>
-🎓 <b>MSc in Telecommunications and Informatics Engineering</b> (2024 – 2026)
-</p>
-
----
-
 ## ⚙️ Favorite Tools and Technologies 
 
 > Tools and technologies that I have worked with and am interested in
@@ -85,55 +60,23 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
         <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-scrum-agile-flaticons-lineal-color-flat-icons.png" width="48" height="48" alt="Scrum" />
       <br>Scrum
     </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" width="48" height="48" alt="PyCharm" />
+      <br>PyCharm
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" width="48" height="48" alt="Visual Studio Code" />
+      <br>VS Code
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sublime_text.png" width="48" height="48" alt="Sublime Text" />
+      <br>Sublime Text
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
+      <br>Ubuntu
+    </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub stats
-
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="André's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=zPereiraa&show_icons=true&count_private=true&theme=default&hide_border=true" height="192px"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="André's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPereiraa&langs_count=8&layout=compact&theme=default&hide_border=true" height="192px"/>
-    </a>
-  <br/>
-</details>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zPereiraa&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true"/>
-</details>
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=zPereiraa&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-</details>
-
----
-
-## 🚀 University Projects
-
-<details>
-  <summary>Bachelor’s Degree Projects 🎓</summary>
-  
-- [Bachelor Project 1](#) — short description.
-- [Bachelor Project 2](#) — short description.
-- [Bachelor Project 3](#) — short description.
-
-</details>
-
-<details>
-  <summary>Master’s Degree Projects 🎓</summary>
-
-- [Master Project 1](#) — short description.
-- [Master Project 2](#) — short description.
-- [Master Project 3](#) — short description.
-
-</details>
