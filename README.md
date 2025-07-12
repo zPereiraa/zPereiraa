@@ -1,40 +1,47 @@
-# 👋 Hi, I’m André Pereira
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm André" title="👋 Hi there! I'm André"/>
+<div align="justify">
 
-🎓 Student of Telecommunications and Informatics Engineering  
-at [University of Lisbon - Instituto Superior Técnico](https://tecnico.ulisboa.pt)
+<a href="https://www.linkedin.com/in/your-linkedin/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:your.email@email.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-- 📖 **BSc in Telecommunications and Informatics Engineering** (2021 – 2024)  
-- 🎓 **MSc in Telecommunications and Informatics Engineering** (2024 – 2026)
+</div>
 
-💡 Areas of interest:
-- Networking
-- Mobile Computing
-- IT Project Management
-
-📫 Reach me at: [your.email@email.com] | [LinkedIn](https://www.linkedin.com/in/your-profile)
+<p></p>
+<p align="justify">
+Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecommunications and Informatics Engineering</b> at <b>University of Lisbon - Instituto Superior Técnico</b>.<br>
+📖 <b>BSc in Telecommunications and Informatics Engineering</b> (2021 – 2024) <br>
+🎓 <b>MSc in Telecommunications and Informatics Engineering</b> (2024 – 2026)
+</p>
 
 ---
 
-## 🛠️ My favorite tools and technologies ⚙️
+## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
 
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="65" height="65" />
       <br>Kotlin
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <a href="#tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      </a>
       <br>Python
     </td>
     <td align="center" width="96">
@@ -52,7 +59,7 @@ at [University of Lisbon - Instituto Superior Técnico](https://tecnico.ulisboa.
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
@@ -60,7 +67,7 @@ at [University of Lisbon - Instituto Superior Técnico](https://tecnico.ulisboa.
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>GitHub
     </td>
   </tr>
@@ -80,17 +87,47 @@ at [University of Lisbon - Instituto Superior Técnico](https://tecnico.ulisboa.
   </tr>
 </table>
 
+---
+
+## 📊 GitHub stats
+
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="André's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=your-username&show_icons=true&count_private=true&theme=default&hide_border=true" height="192px"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="André's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&langs_count=8&layout=compact&theme=default&hide_border=true" height="192px"/>
+    </a>
+  <br/>
+</details>
+
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true"/>
+</details>
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
 
 ---
 
-## 📊 GitHub Stats 📈
+## 🏆 GitHub Profile Trophy
 
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🚀 Featured Projects
-- [Project 1](#) — short description of the project.
-- [Project 2](#) — short description of the project.
+- [Project 1](#) — short description.
+- [Project 2](#) — short description.
+
+---
+
+<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="dino gif" />
+
