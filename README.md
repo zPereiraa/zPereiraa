@@ -42,9 +42,7 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
       <br>Kotlin
     </td>
     <td align="center" width="96">
-      <a href="#tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      </a>
       <br>Python
     </td>
     <td align="center" width="96">
@@ -84,7 +82,7 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
       <br>Networking
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Scrum_Alliance_logo.svg/120px-Scrum_Alliance_logo.svg.png" width="48" height="48" alt="Scrum" />
+        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-scrum-agile-flaticons-lineal-color-flat-icons.png" width="48" height="48" alt="Scrum" />
       <br>Scrum
     </td>
   </tr>
@@ -109,15 +107,14 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
 <details>
   <summary>Activity Graph 📈</summary>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zPereiraa&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true"/>
 </details>
 
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=zPereiraa&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
-
 
 ---
 
