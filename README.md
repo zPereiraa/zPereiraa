@@ -98,10 +98,10 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="André's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=your-username&show_icons=true&count_private=true&theme=default&hide_border=true" height="192px"/>
+      <img alt="André's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=zPereiraa&show_icons=true&count_private=true&theme=default&hide_border=true" height="192px"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="André's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&langs_count=8&layout=compact&theme=default&hide_border=true" height="192px"/>
+      <img alt="André's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPereiraa&langs_count=8&layout=compact&theme=default&hide_border=true" height="192px"/>
     </a>
   <br/>
 </details>
