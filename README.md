@@ -101,7 +101,7 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/androidstudio.svg" width="48" height="48" alt="Android Studio" />
       <br>Android Studio
     </td>
   </tr>
