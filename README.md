@@ -151,7 +151,7 @@ Welcome to my GitHub page! I’m <b>André Pereira</b>, a student of <b>Telecomm
 <details>
   <summary>Master’s Degree Projects 🎓</summary>
 
-- [Gestão de Projetos Informáticos - Scrum Tool](https://github.com/zPereiraa/gpi-scrum-tool) — Scrum Tool made with Lovable and Supabase.
+- [Gestão de Projetos Informáticos - Scrum Tool (2025)](https://github.com/zPereiraa/gpi-scrum-tool) — Scrum Tool made with Lovable and Supabase.
 - [Master Project 2](#) — short description.
 - [Master Project 3](#) — short description.
 
